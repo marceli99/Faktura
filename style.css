@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  background: #3a3a3a;
+  font-family: roboto;
+}
+h1{
+  font-size: 44px;
+}
+section{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  min-height: 100vh;
+  height: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
+  box-shadow: 0px 0px 20px 20px #272727;
+  padding-bottom: 20px;
+}
+header{
+  float: right;
+}
+nav{
+  float: left;
+  width: 100%;
+}
+input{
+  text-align:center;
+  font-size:18px;
+  padding:3px;
+  margin: 5px;
+  border-bottom: 1px solid black;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  background-color :#ddd;
+  color: #000000;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  padding: 5px;
+}
+footer{
+  float: left;
+}
+@font-face {
+font-family: roboto;
+src: url(roboto.ttf);
+}
