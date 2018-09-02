@@ -5,3 +5,8 @@ Demo => http://uw493.mikr.us/q/github/faktura/
 Umieścić pliki w danym katalogu, z poziomu CLI w katalogu wydać polecenie composer install.
 ![photo_1](http://uw493.mikr.us/fakturka.png)
 ![photo_2](http://uw493.mikr.us/powiazania.png)
+# Invoice
+It's simple polish invoice.
+Demo => http://uw493.mikr.us/q/github/faktura/
+# Install with composer
+Put files in directory. From cli type composer install in this location.
