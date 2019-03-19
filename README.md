@@ -1,7 +1,7 @@
 # Faktura
 Prosty system do generowania faktur połączony z relacyjną bazą danych oparty na bibliotece TCPDF.
 # Instalacja z composerem
-Umieścić pliki w danym katalogu, z poziomu CLI w katalogu wydać polecenie "composer install". Stworzyć bazę o nazwie pdf i zaimportować do niej plik sql. Informacje o połączeniu umieścić w pliku create.php. Nazwa może być zmieniona, jednak musi zostać dokonana korekta przy każdym wywołaniu PDO.
+Umieścić pliki w danym katalogu, z poziomu CLI w katalogu wydać polecenie "composer install". Stworzyć bazę o nazwie pdf i zaimportować do niej plik sql. Informacje o połączeniu umieścić w pliku create.php.
 ![photo_1](http://uw493.mikr.us/x/fakturka.png)
 ![photo_2](http://uw493.mikr.us/x/powiazania.png)
 # Invoice
